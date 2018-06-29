@@ -1,0 +1,30 @@
+/******
+Theme Name: Swiofish
+Author: Swiofish
+Template: enigma
+*/
+/* Main css with editable-------------------------------------------------------------- */
+@import url('../enigma/style.css');
+/*.header_section.hd_cover {background-image: none!important;background-color: #fff;}*/
+.header_section.hd_cover{background-color: #fff;}
+.input-group.swiofish-search {width: 59%;/*float: right;*/margin-left: 29%;}
+.enigma_blog_post_content p {color:#000;}
+.enigma_blog_post_content p strong {color: #31a3dd;font-size: 18px;}
+.enigma_sidebar_widget_title h2 {font-size: 12px;}
+.enigma_sidebar_widget {
+    border-left: 1px solid #31A3DD!important;
+    border-right: 1px solid #31A3DD!important;
+    border-bottom: 1px solid #31A3DD!important;
+    background-color: #ffffff!important;
+}
+.enigma_header_breadcrum_title{margin-bottom: 20px!important;}
+.breadcrumb{font-size: 12px!important;}
+.enigma_header_breadcrum_title h1 {
+    font-size: 12px!important;
+    margin: 0;
+}
+.enigma_header_breadcrum_title {margin-bottom: 0!important;height: 50px;}
+/*.hd_cover,.head-contact-info li a {color: #d8de22!important;}*/
+.social.head{display: none;}
+.btn:hover, .btn:focus{color: #fff!important;}
+.head-contact-info li{background-color: #ded822;border: 1px solid #ded822;padding: 2px 6px;border-radius:20px;}
